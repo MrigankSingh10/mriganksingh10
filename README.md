@@ -22,7 +22,7 @@
 
 [<img align="left" alt="https://mriganksingh10.github.io/mriganksingh10/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Mrigank| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Mrigank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mrigank | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkdin]
 [<img align="left" alt="Mrigank | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -39,7 +39,8 @@
 
 [website]: https://mriganksingh10.github.io/mriganksingh10/
 [twitter]:https://twitter.com/mrigank2303239
-[instagram]:https://www.instagram.com/mrigank_singh313/
 [linkdin]:https://www.linkedin.com/in/mrigank-singh-8a3236150/
+[instagram]:https://www.instagram.com/mrigank_singh313/
+
 
 
