@@ -16,8 +16,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://mriganksingh10.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/22rnahsxnb32guzrrwtwakany)
-
+[![Spotify](https://mriganksingh10.vercel.app/api/spotify)](https://open.spotify.com/user/22rnahsxnb32guzrrwtwakany)
 ### Connect with me:
 
 [<img align="left" alt="https://mriganksingh10.github.io/mriganksingh10/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
