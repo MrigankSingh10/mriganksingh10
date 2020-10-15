@@ -1,4 +1,4 @@
-<!--
+
 **MrigankSingh10/mriganksingh10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi there, I'm Mrigank [https://mriganksingh10.github.io/mriganksingh10/] 👋
@@ -37,4 +37,4 @@
 <br />
 <br />
 
--->
+
