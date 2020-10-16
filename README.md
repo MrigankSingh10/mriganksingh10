@@ -3,7 +3,7 @@
 **MrigankSingh10/mriganksingh10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi there, I'm Mrigank  👋
+## Hi there, I'm Mrigank  👋
 
 [![HitCount](http://hits.dwyl.com/MrigankSingh10/mriganksingh10.svg)](http://hits.dwyl.com/MrigankSingh10/mriganksingh10)
 
