@@ -15,9 +15,6 @@
 -  2020 Goals: Prepare For CCNA
 -  Fun fact: I love to play Rainbow Six Seige and Counter Strike. I also love to play Football, Basketball , Kho-Kho and Volleyball.
 
-### Spotify Playing 🎧
-
-[![Spotify](https://spotify.mriganksingh10.vercel.app/api/spotify)](https://open.spotify.com/user/22rnahsxnb32guzrrwtwakany)
 ### Connect with me:
 
 [<img align="left" alt="https://mriganksingh10.github.io/mriganksingh10/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -42,6 +39,9 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 
 
+### Spotify Playing 🎧
+
+[![Spotify](https://spotify.mriganksingh10.vercel.app/api/spotify)](https://open.spotify.com/user/22rnahsxnb32guzrrwtwakany)
 <br />
 <br />
 
