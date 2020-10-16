@@ -4,7 +4,6 @@
 -->
 
 ## Hi there, I'm Mrigank  👋
-
 [![HitCount](http://hits.dwyl.com/MrigankSingh10/mriganksingh10.svg)](http://hits.dwyl.com/MrigankSingh10/mriganksingh10)
 
 [![Website](https://img.shields.io/website?label=mriganksingh.com&style=for-the-badge&url=https://mriganksingh10.github.io/mriganksingh10/)](https://mriganksingh10.github.io/mriganksingh10/)
