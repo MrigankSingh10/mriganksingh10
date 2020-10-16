@@ -31,6 +31,9 @@
 <br />
 <br />
 
+<img src="https://github-readme-stats.vercel.app/api?username=MrigankSingh10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
 ### Connect with me:
 
 [<img align="left" alt="https://mriganksingh10.github.io/mriganksingh10/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
