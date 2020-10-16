@@ -9,11 +9,11 @@
 
 ## I'm a Student!!
 
-- * I have worked on Projects related to Machine Learning and Deep Learning.
-- * I’m currently preparing for my CCNA(Cisco Certified Network Associate).
-- * I’m looking to collaborate with other Machine Learners and Data Scientists.
-- * 2020 Goals: Prepare For CCNA
-- * Fun fact: I love to play Rainbow Six Seige and Counter Strike. I also love to play Football, Basketball , Kho-Kho and Volleyball.
+-  I have worked on Projects related to Machine Learning and Deep Learning.
+-  I’m currently preparing for my CCNA(Cisco Certified Network Associate).
+-  I’m looking to collaborate with other Machine Learners and Data Scientists.
+-  2020 Goals: Prepare For CCNA
+-  Fun fact: I love to play Rainbow Six Seige and Counter Strike. I also love to play Football, Basketball , Kho-Kho and Volleyball.
 
 ### Spotify Playing 🎧
 
