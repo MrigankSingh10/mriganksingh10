@@ -28,6 +28,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
+<br />
 
 ### Connect with me:
 
@@ -37,6 +38,7 @@
 [<img align="left" alt="Mrigank | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
 ### Spotify Playing 🎧
 
 [![Spotify](https://spotify.mriganksingh10.vercel.app/api/spotify)](https://open.spotify.com/user/22rnahsxnb32guzrrwtwakany)
