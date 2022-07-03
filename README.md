@@ -7,12 +7,12 @@
 [![Website](https://img.shields.io/website?label=mriganksingh.com&style=for-the-badge&url=https://mriganksingh10.github.io/mriganksingh10/)](https://mriganksingh10.github.io/mriganksingh10/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mrigank2303239?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmrigank2303239&screen_name=mrigank2303239)
 
-## I'm a Student!!
+## I'm a Software Developer!!
 
--  I have worked on Projects related to Machine Learning and Deep Learning.
--  I’m currently preparing for my CCNA(Cisco Certified Network Associate).
--  I’m looking to collaborate with Network Engineers to enhance my networking skills.
--  2021 Goals: Prepare For CCNA
+-  I have worked on Full Stack Development using Django and Angular with testing automation through Selenium.
+-  I have worked on Projects related to Machine Learning and Deep Learning during my college.
+-  I’m currently learning React.
+-  I have a lot of interest in ethical hacking and networking so whenever I get time I try to learn few things from this domain too.
 -  Fun fact: I love to play Rainbow Six Seige and Counter Strike. I also love to play Football, Basketball , Kho-Kho and Volleyball.
 
 ### Languages and Tools:
