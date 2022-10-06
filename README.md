@@ -5,7 +5,7 @@
 ## Hi there, I'm Mrigank  👋
 
 [![Website](https://img.shields.io/website?label=mriganksingh.com&style=for-the-badge&url=https://mriganksingh10.github.io/mriganksingh10/)](https://mriganksingh10.github.io/mriganksingh10/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mrigank2303239?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmrigank2303239&screen_name=mrigank2303239)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mrigank105?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmrigank2303239&screen_name=mrigank2303239)
 
 ## I'm a Software Developer!!
 
