@@ -53,7 +53,7 @@
 <br />
 
 [website]: https://mriganksingh10.github.io/mriganksingh10/
-[twitter]:https://twitter.com/mrigank2303239
+[twitter]:https://twitter.com/mrigank105
 [linkdin]:https://www.linkedin.com/in/mrigank-singh-8a3236150/
 [instagram]:https://www.instagram.com/mrigank_singh313/
 
