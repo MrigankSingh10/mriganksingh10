@@ -9,11 +9,11 @@
 
 ## I'm a Software Developer!!
 
--  I have worked on Full Stack Development using Django and Angular with testing automation through Selenium.
--  I have worked on Projects related to Machine Learning and Deep Learning during my college.
--  I’m currently learning React.
--  I have a lot of interest in ethical hacking and networking so whenever I get time I try to learn few things from this domain too.
--  Fun fact: I love to play Rainbow Six Seige and Counter Strike. I also love to play Football, Basketball , Kho-Kho and Volleyball.
+-  I am a Fullstack Developer with Python/Django backend and Angular/Typescript on frontend.
+-  Along with Development I also have little experience in Selenium.
+-  I have worked on Projects related to Machine Learning and Deep Learning during my college. 
+-  I am a cybersecurity enthusiast.
+-  Hobby: I love to play Rainbow Six Seige and Counter Strike. I also love to play Football, Basketball , Kho-Kho and Volleyball.
 
 ### Languages and Tools:
 
