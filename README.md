@@ -5,9 +5,9 @@
 
 ## 🚀 About Me
 
-I'm a **Backend Engineer** with experience in building scalable **GraphQL/REST APIs, Microservices, and Event-Driven Architectures**. My expertise lies in **Python, Django, Flask, FastAPI, AWS, Kafka, and Reltio (MDM)**. I enjoy working on complex integrations, distributed systems, and performance optimizations.
+I'm a **Software Engineer** with experience in building scalable **GraphQL/REST APIs, Microservices, and Event-Driven Architectures**. My expertise lies in **Python, Django, Flask, FastAPI, AWS, Kafka, and Reltio (MDM)**. I enjoy working on complex integrations, distributed systems, and performance optimizations.
 
-🔹 **Current Role:** Software Engineer, specializing in GraphQL API development and cloud infrastructure.
+🔹 **Current Role:** Senior Software Engineer, specializing in GraphQL API development and cloud infrastructure.
 
 🔹 **Past Projects:** Implemented **Apollo Federation** on AWS, optimized GraphQL queries, and automated schema deployment pipelines and more.
 
