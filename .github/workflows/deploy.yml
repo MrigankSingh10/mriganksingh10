@@ -35,6 +35,9 @@ jobs:
 
       - name: Build project
         run: npm run build
+        
+      - name: Set Git remote URL to use SSH
+        run: git remote set-url origin git@github.com:${{ github.repository }}.git
 
       - name: Deploy to GitHub Pages
         run: npm run deploy
