@@ -13,6 +13,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      - name: Set up Git user
+        run: |
+          git config --global user.name "Mrigank Singh"
+          git config --global user.email "mrigank2303239@gmail.com"
+
       - name: Set up SSH
         run: |
           mkdir -p ~/.ssh
