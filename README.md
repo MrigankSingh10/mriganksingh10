@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=mriganksingh.com&style=for-the-badge&url=https://mriganksingh10.github.io/mriganksingh10/)](https://mriganksingh10.github.io/mriganksingh10/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mrigank105?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmrigank105&screen_name=mrigank105)
 
-## 🚀 About Me
+##  About Me
 
 I'm a **Software Engineer** with experience in building scalable **GraphQL/REST APIs, Microservices, and Event-Driven Architectures**. My expertise lies in **Python, Django, Flask, FastAPI, AWS, Kafka, and Reltio (MDM)**. I enjoy working on complex integrations, distributed systems, and performance optimizations.
 

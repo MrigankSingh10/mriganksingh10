@@ -18,11 +18,11 @@ const skillCategories: SkillCategory[] = [
   },
   {
     title: "Database & Storage",
-    skills: ["MySQL", "PostgreSQL", "MongoDB", "Redis", "AWS S3"]
+    skills: ["MySQL", "PostgreSQL", "Redis", "AWS S3"]
   },
   {
     title: "Cloud & DevOps",
-    skills: ["AWS", "Docker", "Kubernetes", "CI/CD", "Terraform"]
+    skills: ["AWS", "Docker", "CI/CD", "Terraform"]
   },
   {
     title: "Tools & Others",
