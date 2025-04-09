@@ -59,7 +59,7 @@ const Skills: React.FC = () => {
         <div className="mt-12 bg-white p-6 rounded-lg shadow-md">
           <h3 className="font-bold text-2xl mb-4 text-center">Top Skills Highlight</h3>
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-4 mt-6">
-            {["Apollo GraphQL", "HTML5", "CSS", "Python", "AWS", "Kafka"].map((skill, index) => (
+            {["Python", "Django", "AWS", "Kafka", "FastAPI", "MySQL"].map((skill, index) => (
               <div 
                 key={index} 
                 className="bg-secondary flex items-center justify-center p-4 rounded-lg text-center font-medium hover:bg-primary hover:text-white transition-colors cursor-pointer"
