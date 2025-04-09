@@ -47,17 +47,6 @@ const Footer: React.FC = () => {
         
         <div className="mt-8 pt-6 border-t border-white/10 flex flex-col md:flex-row justify-between items-center">
           <p className="text-accent-foreground">&copy; {currentYear} Mrigank Singh. All rights reserved.</p>
-          
-          <div className="mt-4 md:mt-0">
-            <a 
-              href="#home" 
-              className="flex items-center gap-2 hover:text-primary"
-              aria-label="Back to top"
-            >
-              <span>Back to top</span>
-              <ArrowUp className="w-4 h-4" />
-            </a>
-          </div>
         </div>
       </div>
     </footer>

@@ -74,55 +74,7 @@ const Contact: React.FC = () => {
             </div>
           </div>
           
-          <Card className="shadow-md bg-white">
-            <CardContent className="p-6">
-              <h3 className="text-2xl font-bold mb-6">Send me a message</h3>
-              
-              <form className="space-y-4">
-                <div className="grid grid-cols-1 gap-4">
-                  <div>
-                    <label htmlFor="name" className="block text-sm font-medium mb-1">
-                      Your Name
-                    </label>
-                    <input
-                      type="text"
-                      id="name"
-                      className="w-full p-2 border rounded-md focus:ring-2 focus:ring-primary focus:border-primary outline-none"
-                      placeholder="John Doe"
-                    />
-                  </div>
-                  
-                  <div>
-                    <label htmlFor="email" className="block text-sm font-medium mb-1">
-                      Your Email
-                    </label>
-                    <input
-                      type="email"
-                      id="email"
-                      className="w-full p-2 border rounded-md focus:ring-2 focus:ring-primary focus:border-primary outline-none"
-                      placeholder="john@example.com"
-                    />
-                  </div>
-                  
-                  <div>
-                    <label htmlFor="message" className="block text-sm font-medium mb-1">
-                      Message
-                    </label>
-                    <textarea
-                      id="message"
-                      rows={4}
-                      className="w-full p-2 border rounded-md focus:ring-2 focus:ring-primary focus:border-primary outline-none"
-                      placeholder="Your message here..."
-                    />
-                  </div>
-                </div>
-                
-                <Button type="submit" className="w-full">
-                  Send Message
-                </Button>
-              </form>
-            </CardContent>
-          </Card>
+
         </div>
       </div>
     </section>

@@ -180,18 +180,21 @@ const Education: React.FC = () => {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                 <div className="bg-secondary p-4 rounded-lg">
                   <h4 className="font-semibold">Gold Medal in Kho-Kho</h4>
+                  <p className="text-sm text-muted-foreground mt-1">2017 - Amity University</p>
                 </div>
                 
+                <div className="bg-secondary p-4 rounded-lg">
+                  <h4 className="font-semibold">Bronze Medal in Football</h4>
+                  <p className="text-sm text-muted-foreground mt-1">2017 -  Amity University</p>
+                </div>
+
                 <div className="bg-secondary p-4 rounded-lg">
                   <h4 className="font-semibold">Gold Medal in Kho-Kho</h4>
+                  <p className="text-sm text-muted-foreground mt-1">2019 - Amity University</p>
                 </div>
                 
                 <div className="bg-secondary p-4 rounded-lg">
-                  <h4 className="font-semibold">Bronze Medal in Kho-Kho</h4>
-                </div>
-                
-                <div className="bg-secondary p-4 rounded-lg">
-                  <h4 className="font-semibold">Gladiator Award</h4>
+                  <h4 className="font-semibold">Gladiator Award - Ecom Express</h4>
                   <p className="text-sm text-muted-foreground mt-1">For resolving critical production issues</p>
                 </div>
               </div>
