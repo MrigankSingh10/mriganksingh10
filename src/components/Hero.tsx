@@ -4,6 +4,14 @@ import { ArrowDown, Github, Linkedin, Mail } from 'lucide-react';
 import { Avatar, AvatarImage, AvatarFallback } from '@/components/ui/avatar';
 
 const Hero: React.FC = () => {
+  const scrollToAbout = (event: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
+    event.preventDefault(); // Prevent the default anchor behavior
+    const aboutSection = document.getElementById('about');
+    if (aboutSection) {
+      aboutSection.scrollIntoView({ behavior: 'smooth' }); // Smooth scroll to the #about section
+    }
+  };
+
   return (
     <section id="home" className="min-h-screen flex items-center pt-16 bg-gradient-to-b from-background to-secondary">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
@@ -67,7 +75,7 @@ const Hero: React.FC = () => {
           </div>
         </div>
         <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2 hidden md:block animate-bounce">
-          <a href="#about" aria-label="Scroll to About section">
+          <a href="#about" aria-label="Scroll to About section" onClick={scrollToAbout}>
             <ArrowDown className="w-6 h-6 text-primary" />
           </a>
         </div>
