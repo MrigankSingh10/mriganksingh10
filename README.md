@@ -18,13 +18,13 @@
 
 ```yaml
 name: Mrigank Singh
-role: Senior Software Engineer
+role: Senior Software Engineer/Senior Consultant
 focus:
   - GenAI & LLM systems (RAG, agentic workflows, structured outputs)
   - Event-driven architectures (Kafka, AWS MSK, Kinesis, SQS)
   - Distributed backends on AWS
 currently:
-  building: AI-assisted banking platform for a leading global management consulting firm (client name withheld)
+  building: AI-assisted banking platform for a leading global management consulting firm 
   approach: Spec-Driven Development with AI coding sub-agents
 interests: [GenAI in production, cloud infrastructure, backend performance, cybersecurity]
 ```
