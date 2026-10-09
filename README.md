@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&pause=1500&color=C8553D&center=true&vCenter=true&width=700&lines=LLM+integration+in+event-driven+workflows;RAG+%26+agentic+AI+systems;Kafka+%2F+AWS+MSK+data+pipelines;Python+%C2%B7+Django+%C2%B7+FastAPI+%C2%B7+Terraform" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=C8553D&center=true&vCenter=true&width=700&lines=LLM+integration+in+event-driven+workflows;RAG+%26+agentic+AI+systems;Kafka+%2F+AWS+MSK+data+pipelines;Python+%C2%B7+Django+%C2%B7+FastAPI+%C2%B7+Terraform" alt="Typing SVG" />
   </a>
 </p>
 
